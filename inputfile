@@ -1,0 +1,9 @@
+#~/geant4/serc19_geant4_mod/test_gamma_51_49_run10_1kEv.root	10000	10
+#~/geant4/serc19_geant4_mod/test_pi0_51_49_run10_5GeV_1kEv.root	10000	5
+#~/geant4/serc19_geant4_mod/test_pi0_51_49_run10_20GeV_1kEv.root	10000	20
+#~/geant4/serc19_geant4_mod/test_gamma_10GeV_10k.root	20000	10
+#~/geant4/serc19_geant4_mod/test_pi0_20GeV_10k.root	20000	20
+~/geant4/serc19_geant4_mod/test_pi0_10GeV_10k.root    20000   10
+#~/geant4/serc19_geant4_mod/test_pi0_1GeV_5k.root    20000   1
+#~/geant4/serc19_geant4_mod/test_pi0_5GeV_10k.root    20000   5
+#~/geant4/serc19_geant4_mod/test_pi0_150MeV_run5k.root 5000    0.150
